@@ -1,52 +1,109 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Language count" src="https://img.shields.io/github/languages/count/MuriloGon/frontend-online-store?color=%2304D361&style=flat-square">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/MuriloGon/frontend-online-store?style=flat-square">
+  
+  <a href="https://github.com/MuriloGon/frontend-online-store/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/MuriloGon/frontend-online-store?style=flat-square">
+  </a>
 
-## Available Scripts
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square">
 
-In the project directory, you can run:
+  <a href="https://github.com/MuriloGon/frontend-online-store/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/MuriloGon/frontend-online-store?style=social">
+  </a>
+</p>
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.svg" />
+</h1>
 
-### `npm start`
+<h2 align="center"> 
+	🏬 Frontent Online Store 💵
+</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#about-the-project">About the project</a>
+  <a href="#functionalities">Functionalities</a>
+  <a href="#screenshots">Screenshots</a>
+  <a href="#installation-and-usage">Installation and Usage</a>
+  <a href="#tech-and-framework-used">Tech/Framework used</a>
+  <a href="#author">Author</a>
+  <a href="#license">License</a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## About the project
 
-### `npm test`
+**Frontend Online Store** is an Amazon like application using the Mercado Livre API.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> Project developed at Trybe on Frontend Module. Trybe is a web development school that has a genuine commitment to the professional success of its students. There are more than 1500 hours of training that covers fundamentals of web development, development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Functionalities
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 
+-
+- ***
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Desktop:
 
 
-## Concepts / Tools Learned
-* Typescript
-* Redux
-* @reduxjs/toolkit
+
+Mobile:
+
+---
+
+## Installation and Usage
+
+## Tech and Framework used
+
+The following tools were used on this project:
+
+#### **Libs** 
+
+- [NodeJS](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Stars](https://github.com/n49/react-stars#readme)
+- [React Transition Group](https://reactcommunity.org/react-transition-group/)
+- [Styled components](https://styled-components.com/)
+- [Swiper](https://swiperjs.com/)
+- [Reduxjs/toolkit](https://redux-toolkit.js.org/)
+
+#### **Utilities**
+
+- Mockups: [Figma](https://www.figma.com/)
+- Text Editor: [Visual Studio Code](https://code.visualstudio.com/) → Extensions: [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+- Commit Conventional: [Commitlint](https://github.com/conventional-changelog/commitlint)
+- API Debug: [Insomnia](https://insomnia.rest/)
+
+---
+
+## Author
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45644220?v=4" width="100px;" alt=""/>
+  <br />
+  <sub>
+    <b>Murilo Gonçalves</b>
+  </sub>
+</a>
+<br>
+<a href="https://www.linkedin.com/in/MuriloGon/">
+  <img src="https://img.shields.io/badge/-Murilo Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MuriloGon/">
+</a>
+<a href="mailto:murilogoncalvesdev@gmail.com" target="__blank">
+  <img src="https://img.shields.io/badge/-murilogoncalvesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilogoncalvesdev@gmail.com">
+</a>
+
+---
+
+## 📝 License
+
+This project is under MIT License [MIT](./LICENSE).
+
+Made by Murilo Gonçalves [Contact Me](https://www.linkedin.com/in/MuriloGon/)
