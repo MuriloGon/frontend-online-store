@@ -39,23 +39,86 @@
 
 ---
 
-## Functionalities
+##  Functionalities
 
-- 
--
-- ***
+- [x] Responsive design (desktop + mobile)
+- [x] Products navigation
+  - [x] Allow user select product
+  - [x] Allow user deselect selected product
+- [x] Product detail
+  - [x] Carrousel images
+  - [x] Product description
+  - [x] Rating users section
+- [x] Cart Managment
+  - [x] List all selected products
+  - [x] Show total price
+  - [x] Finish buy redirection
+- [x] Finish buy
+  - [x] Check products selected
+  - [x] User info inputs
+  - [x] Selection of payment method
+  - [x] Finish buy
 
 ## Screenshots
 
-Desktop:
+### Desktop:
 
-
+<table>
+  <tr>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138636564-9ac24ca8-099a-4a33-bde5-958a4baa676b.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138636673-5493dd7c-6433-4c00-b53b-a03564e773a3.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138637965-a7713e35-a65b-4f07-8134-91d127b4e417.png"></td>
+  </tr>
+  <tr>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138637998-65c70644-612b-49ca-87dc-e4e05a094516.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638065-f3f5c234-c5df-4019-aea7-88b1b039a893.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638098-d6e8e2cb-eaf2-475c-ab6c-8ff48b2c84f4.png"></td>
+  </tr>
+  <tr>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638118-36fb0e96-8bb0-472a-9573-ad460fafc517.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638141-ca04b033-b1ab-462f-a94e-e3ea1d3ecd7d.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638232-4b5c970f-d9f5-4ec0-8d1b-091d9160d1d5.png"></td>
+  </tr>
+ </table>
 
 Mobile:
+
+<table>
+  <tr>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638429-e0fcd623-63c5-40cb-b0fa-1bfd45107f50.png"></td>  
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638899-c3522bcc-3c7b-4e64-91d4-0ee8fbed845d.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638452-4e9d1c14-e6e2-40c9-8959-631b085925d4.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638484-325a7f2f-a2d6-4141-89c1-288210f1da8f.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638500-bf7dab92-4701-4f82-9e6e-ae2c96139f51.png"></td>
+  </tr>
+  <tr>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638515-851c455b-99bc-4ac6-96c8-b91d586c5a33.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638540-052b8d0a-93f2-4e7d-948d-fed9ea8c7a60.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638564-6f5bc28e-c1e9-4b74-84ee-9bf7c9fff194.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638572-4fc64b99-c923-46ad-8321-cd1846bfb081.png"></td>
+    <td><img height="100%" width="auto" src="https://user-images.githubusercontent.com/45644220/138638576-05cf2896-5bb5-46f9-9c4b-3cdafb1d84a5.png"></td>
+  </tr>
+ </table>
+
+Video:
+
+https://user-images.githubusercontent.com/45644220/138638735-0d84c250-9494-4a5b-b27c-fc80ab79ef61.mp4
 
 ---
 
 ## Installation and Usage
+
+> Install depedencies
+
+```bash
+npm install
+```
+
+> Start server at localhost:3000 (default)
+
+```bash
+npm start
+```
 
 ## Tech and Framework used
 
@@ -77,8 +140,8 @@ The following tools were used on this project:
 #### **Utilities**
 
 - Mockups: [Figma](https://www.figma.com/)
-- Text Editor: [Visual Studio Code](https://code.visualstudio.com/) → Extensions: [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
-- Commit Conventional: [Commitlint](https://github.com/conventional-changelog/commitlint)
+- Text Editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Conventiona lCommit: [Conventional commit](https://github.com/conventional-changelog/commitlint)
 - API Debug: [Insomnia](https://insomnia.rest/)
 
 ---
